@@ -16,3 +16,14 @@ System.out.println("hello world;");
 ```javascript
 var myVar="helloworld";
 ```
+
+- [ ] Turn on git window
+- [ ] outline my portfolio
+- [ ] introduce my self to the world
+- [x] hello
+
+
+
+
+
+
