@@ -1,1 +1,4 @@
-![image of ganesh](https://cdn.pixabay.com/photo/2021/02/09/13/00/ganesh-5998483_1280.jpg)
+# this is h1 header
+## this is h2 header
+###### this is h6 header
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
